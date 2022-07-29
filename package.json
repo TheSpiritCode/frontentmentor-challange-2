@@ -1,0 +1,22 @@
+{
+  "name": "frontentmentor-challange-2",
+  "version": "1.0.0",
+  "description": "![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSpiritCode/frontentmentor-challange-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSpiritCode/frontentmentor-challange-2/issues"
+  },
+  "homepage": "https://github.com/TheSpiritCode/frontentmentor-challange-2#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
